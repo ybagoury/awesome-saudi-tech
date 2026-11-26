@@ -111,6 +111,7 @@
 - **Slack** - التواصل الفريقي
 - **Figma** - تصميم الواجهات
 - **Adobe XD** - تصميم الواجهات
+- **[Wasaas](https://wasaas.org)** - API واتساب غير رسمية (SaaS) للمطورين، مع SDKs لـ Node.js وLaravel
 
 ---
 
